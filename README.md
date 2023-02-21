@@ -8,7 +8,10 @@ Steven Mai - 100781485
 Evidence Okeke - 100755328
 
 ## How To Run
-instructions here
+Open a terminal in the folder containing all program files and execute the following command.
+```
+make game
+```
 
 ## Executing Program
 ![](https://github.com/steven-m02/Group-2-OS-Tutorial-4/blob/main/images/start.gif)
