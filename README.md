@@ -20,4 +20,4 @@ make game
 ![](https://github.com/steven-m02/Group-2-OS-Tutorial-4/blob/main/images/end.gif)
 
 ##
-Thursday, February 22nd, 2023
+Submitted: Thursday, February 22nd, 2023
