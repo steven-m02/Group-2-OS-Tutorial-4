@@ -11,10 +11,10 @@ Evidence Okeke - 100755328
 instructions here
 
 ## Executing Program
-gif here
+![](https://github.com/steven-m02/Group-2-OS-Tutorial-4/blob/main/images/start.gif)
 
 ## Terminating Program
-gif here
+![](https://github.com/steven-m02/Group-2-OS-Tutorial-4/blob/main/images/end.gif)
 
 ##
 Thursday, February 22nd, 2023
