@@ -18,6 +18,7 @@ make game
 
 ## Terminating Program
 All questions except 'Mountains 400' was set to 'answered' to get to the end faster. <br> Player scores are only showed at the end.
+<br>
 ![](https://github.com/steven-m02/Group-2-OS-Tutorial-4/blob/main/images/end.gif)
 
 ##
