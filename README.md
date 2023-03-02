@@ -17,6 +17,7 @@ make game
 ![](https://github.com/steven-m02/Group-2-OS-Tutorial-4/blob/main/images/start.gif)
 
 ## Terminating Program
+All questions except one was set to "answered" to get to the end faster.
 ![](https://github.com/steven-m02/Group-2-OS-Tutorial-4/blob/main/images/end.gif)
 
 ##
